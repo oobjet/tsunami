@@ -1,5 +1,14 @@
 # TSUNAMI 3
 
+## Installation
+Available for macOS & Windows.
+
+Download [Max](https://cycling74.com/downloads) at cycling74.
+
+Download or clone this repository.
+
+Open tsunami.maxproj
+
 ## WTF??
 
 Tsunami is a live looping sampler (looper) with hypersampling functionality. Basically, it has the looping functions of the venerable [Echoplex Digital Pro](http://www.vintagesynth.com/oberheim/echoplex.php) (Record, Overdub, Multiply, Mute, Replace, Speed, Reverse) and the capabilities of [MLR](https://github.com/monome-community/mlr) application (from the monome community) aka playing the recorded loop from any of the subdivision at different speed.
