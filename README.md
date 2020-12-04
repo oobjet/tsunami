@@ -1,4 +1,4 @@
-# TSUNAMI 3
+# TSUNAMI 
 
 ## Installation
 Available for macOS & Windows.
